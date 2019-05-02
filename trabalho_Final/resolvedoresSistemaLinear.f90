@@ -1,3 +1,5 @@
+! Modulo com todos resolvedores de sistemas lineares
+
 module resolvedoresSistemaLinear
 	
 	use precisao
